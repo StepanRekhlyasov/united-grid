@@ -1,0 +1,7 @@
+{
+  "name": "UnitedGridChatIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
