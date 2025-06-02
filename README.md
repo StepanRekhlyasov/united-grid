@@ -15,7 +15,7 @@
 - `UnitedGridChat` - фронтенд на Ionic + Vue 3
 - `AzureSignalRService` - бэкенд на ASP.NET Core с SignalR
 
-## Установка и запуск test
+## Установка и запуск
 
 ### 1. Бэкенд (AzureSignalRService)
 
